@@ -1,4 +1,4 @@
-SliverBSD is a project to port a os to a lot of weird architectures
+SliverBSD is a project to port a os to a lot of weird architectures, it’s based on FreeBSD but only the kernel. the userland and hypervisor will be different 
 
 # what’s planned
 SliverBSD has implemented support for the following below. (it will release open source soon)
